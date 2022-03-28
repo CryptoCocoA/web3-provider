@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-$ yarn add -D @crypto-cocoa/web3-provider
+$ yarn add @crypto-cocoa/web3-provider
 ```
 
 ## How to use
